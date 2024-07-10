@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Clock/static/css/main.aecb535e.css",
+    "main.js": "/Dynamic-Clock/static/js/main.43af7d97.js",
+    "static/js/453.85254689.chunk.js": "/Dynamic-Clock/static/js/453.85254689.chunk.js",
+    "static/media/image1.png": "/Dynamic-Clock/static/media/image1.c90fe2d93998a19424b2.png",
+    "index.html": "/Dynamic-Clock/index.html",
+    "main.aecb535e.css.map": "/Dynamic-Clock/static/css/main.aecb535e.css.map",
+    "main.43af7d97.js.map": "/Dynamic-Clock/static/js/main.43af7d97.js.map",
+    "453.85254689.chunk.js.map": "/Dynamic-Clock/static/js/453.85254689.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aecb535e.css",
+    "static/js/main.43af7d97.js"
+  ]
+}
