@@ -7,7 +7,7 @@ const Register = () => {
 
   const handleRegister = (event) => {
     event.preventDefault();
-    navigate("/track");
+    navigate("/Dynamic-Clock/track");
   };
 
   return (
@@ -51,7 +51,7 @@ const Register = () => {
         </div>
         <div className="text-center mt-3">
           <p>
-            Have an account? <a href="/login"> Sign In</a>
+            Have an account? <a href="/Dynamic-Clock/login"> Sign In</a>
           </p>
         </div>
       </div>

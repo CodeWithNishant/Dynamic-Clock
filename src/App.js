@@ -10,9 +10,9 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/login" element={<Login />} />
-        <Route path="/register" element={<Register />} />
-        <Route path="track" element={<TrackingScreen />} />
+        <Route path="/Dynamic-Clock/login" element={<Login />} />
+        <Route path="/Dynamic-Clock/register" element={<Register />} />
+        <Route path="/Dynamic-Clock/track" element={<TrackingScreen />} />
         <Route path="/" element={<Onboarding />} />
         <Route path="/Dynamic-Clock" element={<Onboarding />} />
       </Routes>

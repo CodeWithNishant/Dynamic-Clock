@@ -33,7 +33,8 @@ const Login = () => {
         </div>
         <div className="text-center mt-3">
           <p>
-            Don't have an account? <a href="/register">Register</a>
+            Don't have an account?{" "}
+            <a href="/Dynamic-Clock/register">Register</a>
           </p>
         </div>
       </div>

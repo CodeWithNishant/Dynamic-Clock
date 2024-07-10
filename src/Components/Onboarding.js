@@ -14,7 +14,10 @@ const Onboarding = () => {
   const renderButtons = () => {
     if (index === 2) {
       return (
-        <button className="special-button" onClick={() => navigate("/login")}>
+        <button
+          className="special-button"
+          onClick={() => navigate("/Dynamic-Clock/login")}
+        >
           &rarr;
         </button>
       );
