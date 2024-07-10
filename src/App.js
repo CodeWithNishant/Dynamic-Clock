@@ -14,6 +14,7 @@ function App() {
         <Route path="/register" element={<Register />} />
         <Route path="track" element={<TrackingScreen />} />
         <Route path="/" element={<Onboarding />} />
+        <Route path="/Dynamic-Clock" element={<Onboarding />} />
       </Routes>
     </Router>
   );
