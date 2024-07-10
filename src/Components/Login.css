@@ -1,0 +1,104 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .login-form {
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 400px; 
+    margin: 0 auto; 
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 2em; 
+  }
+  
+  .text-muted {
+    margin-bottom: 2em; 
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+
+  .form-group.text-right {  
+    display: flex; 
+    justify-content: flex-end; 
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-group input {
+    padding: 0.75rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+
+  .terms-checkbox {
+    display: flex;
+    justify-content: space-between; 
+  }
+
+  .terms-checkbox input{
+    color: #ff8800;
+  }
+
+  .terms-checkbox label{
+    padding-left: 8px;
+  }
+  
+  .submit-button {
+    margin-top: 24px;
+    height : 52px;
+    width: 100%;
+    background-color: #ff8800;
+    border: none;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .submit-button:hover {
+    background-color: #ff7700;
+  }
+  
+  .google-signin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 20px; 
+    background-color: transparent;
+    border: none;
+  }
+  
+  .google-signin img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border: 3px solid whitesmoke;
+    border-radius: 100%;
+  }
+  
+  a {
+    color: #ff8800!important;
+    text-decoration: none !important;
+  }
+  
+  a:hover {
+    color: #ff7700;
+    text-decoration: none;
+  }
+  
